@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task00</string>
+    <string name="name">name</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="result">Result:</string>
+</resources>
